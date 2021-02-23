@@ -1,7 +1,7 @@
 ---
 title: "Short Lab 4"
-author: "INSERT YOUR NAME HERE"
-date: "Due Date Here"
+author: "Lori Wang"
+date: "23/02/2021"
 output: html_document
 ---
 
@@ -46,7 +46,7 @@ Follow the instructions on Lecture Slides 7 (60 -- 68).
 Please type only the link to your repository using the template below. Fill in both the square brackets `[]` and the parentheses `()` with your link.
 
 
-[YOUR LINK HERE](YOUR LINK HERE)
+[https://github.com/loriWang999/short_lab4](https://github.com/loriWang999/short_lab4)
 
 Here's a checklist of what we should see at the link above:
 
